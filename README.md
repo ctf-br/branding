@@ -1,4 +1,4 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/ctf-br/branding)
+![GitHub last commit](https://img.shields.io/github/last-commit/ctf-br/branding?label=Atualizado)
 <!-- 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
