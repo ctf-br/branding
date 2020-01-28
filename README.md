@@ -1,5 +1,4 @@
-![Version 0.04](https://img.shields.io/badge/Version-0.01-green.svg)
-[![Twitter](https://img.shields.io/badge/Twitter-%40TheZakMan-blue.svg)](https://www.twitter.com/thezakman)
+![Twitter Follow](https://img.shields.io/twitter/follow/thezakman?style=social)
 
 <!-- 
 
