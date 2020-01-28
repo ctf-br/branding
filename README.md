@@ -1,5 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/thezakman?style=social)](https://www.twitter.com/thezakman)
-
+![GitHub last commit](https://img.shields.io/github/last-commit/ctf-br/branding)
 <!-- 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -69,5 +68,6 @@ Qualquer dúvida só entrar em contato comigo @TheZakMan
 ```
 
 PS: se possivel lembrem de dar créditos ao amigo aqui que fez tudo isso :)
+<br>[![Twitter](https://img.shields.io/twitter/follow/thezakman?style=social)](https://www.twitter.com/thezakman)
 
 
