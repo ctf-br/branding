@@ -1,4 +1,4 @@
-![Twitter Follow](https://img.shields.io/twitter/follow/thezakman?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/thezakman?style=social)](https://www.twitter.com/thezakman)
 
 <!-- 
 
